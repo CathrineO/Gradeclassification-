@@ -1,5 +1,5 @@
 # Projects
-Gradeclassification of Portuguese students :
+Gradeclassification of Portuguese students:
 [Notebook](https://CathrineO.github.io/Projects/M1)
 
 Classification of tweets: 
@@ -8,5 +8,5 @@ Classification of tweets:
 Prediction of stock prices: 
 [Notebook](https://CathrineO.github.io/Projects/M3)
 
-Dieaseclassification of cows: 
+Dieaseclassification of cows (semester project): 
 [Notebook](https://CathrineO.github.io/Projects/Semesterproject)
