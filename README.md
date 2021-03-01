@@ -5,7 +5,7 @@ Gradeclassification of Portuguese students :
 Classification of tweets: 
 [Notebook](https://CathrineO.github.io/Projects/M2)
 
-
+Prediction of stock prices: 
 [Notebook](https://CathrineO.github.io/Projects/M3)
 
 Dieaseclassification of cows: 
