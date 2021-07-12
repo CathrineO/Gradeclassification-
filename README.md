@@ -10,3 +10,6 @@ Prediction of stock prices (group assignment):
 
 Dieaseclassification of cows (semester project - (group assignment)): 
 [Notebook](https://CathrineO.github.io/Projects/Semesterproject)
+
+Master Thesis (group assignment):
+[Notebook](https://CathrineO.github.io/Projects/MasterThesis)
