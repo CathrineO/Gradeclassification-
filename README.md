@@ -16,3 +16,6 @@ Master Thesis (group project):
 
 Cluster and PCA analysis of Pokemon data (individual assignment):
 [Notebook](https://CathrineO.github.io/Projects/AnalysisPokemanData.pdf)
+
+Network Analysis (individual assignment):
+[Notebook](https://CathrineO.github.io/Projects/NetworkAnalysis.pdf)
