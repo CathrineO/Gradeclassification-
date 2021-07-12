@@ -11,5 +11,8 @@ Prediction of stock prices (group assignment):
 Dieaseclassification of cows (semester project - (group assignment)): 
 [Notebook](https://CathrineO.github.io/Projects/Semesterproject)
 
-Master Thesis (group assignment):
+Master Thesis (group project):
 [Notebook](https://CathrineO.github.io/Projects/Master_Thesis)
+
+Cluster and PCA analysis of Pokemon data (individual assignment):
+[Notebook](https://CathrineO.github.io/Projects/AnalysisPokemanData)
