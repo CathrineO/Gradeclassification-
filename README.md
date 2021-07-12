@@ -12,4 +12,4 @@ Dieaseclassification of cows (semester project - (group assignment)):
 [Notebook](https://CathrineO.github.io/Projects/Semesterproject)
 
 Master Thesis (group assignment):
-[Notebook](https://CathrineO.github.io/Projects/MasterThesis)
+[Notebook](https://CathrineO.github.io/Projects/Master_Thesis)
